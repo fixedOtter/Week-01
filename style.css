@@ -1,0 +1,26 @@
+body {
+  background-image: linear-gradient(to right, lightpink, rgb(236, 195, 222), lightpink);
+  text-align: center;
+}
+
+
+
+.lesson {
+  background-color: lemonchiffon;
+}
+
+.title {
+  color: darkblue;
+}
+
+#email {
+  background-color: goldenrod;
+}
+
+#github {
+  background-color: lightsteelblue;
+}
+
+#portfolio {
+  background-color: darkorange;
+}
